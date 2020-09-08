@@ -24,4 +24,8 @@ function displayFormContents() {
 
 	alert(out);
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 52bbdfe4f1c20c5bf1f0ceb0ece55a36ef6c2c70
