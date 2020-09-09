@@ -1,6 +1,5 @@
-
 def my_var():
-	""" Affiche le type d'une liste d'arguments
+	"""
 	# 42 est de type type(42)
 	# 42 est de type <class 'str'>
 	# quarante-deux est de type <class 'str'>
